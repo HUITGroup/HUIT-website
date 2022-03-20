@@ -7,7 +7,7 @@ author: karintou
 
 2021年度の新歓は全てオンライン（Zoom）での開催となります。
 
-![image](/assets/2021/WelcomePartySchedule.png)
+![image]({{ "/assets/2021/WelcomePartySchedule.png" | relative_url }})
 
 <!--各セッションは日本語で行われます。-->
 

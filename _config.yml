@@ -13,6 +13,7 @@ locale: ja_JP
 title: "HUIT 北大IT研究会"
 title_separator: "|"
 minimal_mistakes_skin: "air" # 全体の色合い
+baseurl: "/HUIT-website" # 組織レポジトリに移す時は空文字に設定する
 
 breadcrumbs: true
 logo: "/assets/images/huit_logo_white.png"
