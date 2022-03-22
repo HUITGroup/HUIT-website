@@ -85,14 +85,20 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 ### 🛠️ 部員の技術スタック
 
 - Web 制作
-  - フロントエンド： `React` `Vue`
-  - バックエンド： `Django` `Node.js` `Go` `PHP`
+  - フロントエンド： `Next.js` `React` `Vue` `Jekyll`
+  - バックエンド： `FastAPI` `Django` `Docker` `Node.js` `Go` `PHP` `Firebase`
 - 競技プログラミング： `C++` `Python`
+- アプリ: `flutter` `Android` `iOS`
+- Windows アプリケーション制作 `C#`
 - ゲーム制作： `Unity`
 - ネットワーク・OS： `C` `Rust`
 - マイコン・組み込み・IoT： `Raspberry Pi` `Arduino` `ESP` `PIC` `IchigoJam`
+- バージョン管理 `Git` `Github`
 - BOT 制作： `Discord` `Twitter`
 - 機械学習・AI： `自然言語処理` `画像処理` `音声処理`
+- ブロックチェーン: `NFT`
+- blender
+- Latex
 
 ### 🎈 部員のイベント参加
 
